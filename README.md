@@ -1,2 +1,3 @@
-# n8n-render-temporary-20261108
-Temporary n8n deployment for Render backed by Neon.
+# Temporary n8n on Render
+
+This private repository exists only to build the temporary Render-hosted n8n instance. Runtime configuration, including the Neon database credentials, is managed in Render environment variables and is intentionally not committed here.
